@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ActiTime Cucumber Automation">
+  <test name="Test SCenarios">
+     <classes>
+        <class name="com.gowrisoft.usermgmt.testsuite.DriverScript"></class>
+     </classes>
+  </test>
+</suite>

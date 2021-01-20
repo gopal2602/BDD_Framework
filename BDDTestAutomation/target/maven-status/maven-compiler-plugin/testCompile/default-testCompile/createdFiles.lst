@@ -1,0 +1,7 @@
+com\gowrisoft\usermgmt\utility\ApplicationDependent.class
+com\gowrisoft\usermgmt\AppTest.class
+com\gowrisoft\usermgmt\stepdefinitions\StepDefinitions.class
+com\gowrisoft\usermgmt\testsuite\DriverScript.class
+com\gowrisoft\usermgmt\utility\ApplicationIndependent.class
+com\gowrisoft\usermgmt\utility\ApplicationDependent$1.class
+com\gowrisoft\usermgmt\pages\GowriSoftPages.class

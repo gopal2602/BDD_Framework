@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [ActiTime Cucumber Automation]">
+  <test name="Test SCenarios(failed)">
+    <classes>
+      <class name="com.gowrisoft.usermgmt.testsuite.DriverScript">
+        <methods>
+          <include name="tearDownClass"/>
+          <include name="writeExtentReport"/>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- com.gowrisoft.usermgmt.testsuite.DriverScript -->
+    </classes>
+  </test> <!-- Test SCenarios(failed) -->
+</suite> <!-- Failed suite [ActiTime Cucumber Automation] -->

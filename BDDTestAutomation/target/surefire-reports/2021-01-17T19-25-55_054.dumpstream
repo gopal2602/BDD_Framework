@@ -1,0 +1,4 @@
+# Created at 2021-01-17T19:26:04.491
+Boot Manifest-JAR contains absolute paths in classpath 'H:\OnlineClasses\Workspace_Automation\GowriSoft-BDD-Automation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
